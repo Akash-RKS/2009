@@ -26,7 +26,7 @@ pip install rich
 
 pkg install git
 
-git clone https://github.com/Akash-RKS/2009.py
+git clone https://github.com/Akash-RKS/2009.git
 
 cd 2009
 
